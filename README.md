@@ -1,4 +1,4 @@
 curl
 ====
 
-Collects all versions of cURL or/on iSC Inc..
+Collects all versions of cURL on iSC Inc..
