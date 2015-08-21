@@ -1,0 +1,25 @@
+.snapshots-repos-box td.snapshots-repo-logo {
+	width: 150px;
+	border-right: none;
+}
+
+.snapshots-repos-box td.snapshots-repo-title {
+	border-left: none;
+}
+
+.client-js .snapshots-repo-select-submit {
+	display: none;
+}
+
+.snapshots-ajax-loader {
+	display: block;
+	margin: 0 auto;
+	padding: 21px 0 56px 0;
+	width: 48px;
+	height: 48px;
+	background: transparent url(loader-48.gif) no-repeat 50% 50%;
+}
+
+.snapshots-download-badge {
+	margin: 2em 0;
+}
