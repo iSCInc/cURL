@@ -5,6 +5,9 @@
   > Collects all versions of [**cURL**](http://curl.haxx.se/download/curl-7.38.0.zip) on *iSC Inc.*.
 
 ## Install:
+1. `git submodule init`
+2. `git submodule add https://github.com/Krinkle/ts-krinkle-basetool.git lib/basetool`
+
 * Copy `sample-local.php` and rename to `local.php`
 * Fill in paths for the needed directories (and create them if needed). Keep in mind that the PHP script
   needs to be able to write, read and remove files from these directories.
